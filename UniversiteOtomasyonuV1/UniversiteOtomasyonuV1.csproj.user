@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="EGITIMCILER\FRMEGITIMCIANAFORM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EGITIMCILER\FRMEGITIMCIBILGIGUNCELLEME.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EGITIMCILER\FRMEGITIMCIGIRIS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FRMACILISFORMU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FRMOGRENCIANAFORM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FRMOGRENCIBILGIGUNCELLE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmOgrenciGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="YONETIMPANELI\FRMBOLUMEKLEMEFORMU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="YONETIMPANELI\FRMFAKULTEEKLEMEFORMU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="YONETIMPANELI\FRMIDARIANAFORMU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="YONETIMPANELI\FRMIDARIGIRIS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="YONETIMPANELI\FRMOGRENCIKAYITFORMU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="YONETIMPANELI\FRMREKTORADIDEGISTIR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
